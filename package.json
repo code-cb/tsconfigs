@@ -2,7 +2,14 @@
   "name": "@codecb/tsconfigs",
   "version": "0.0.1",
   "description": "Base TypeScript configs",
-  "repository": "https://github.com/code-cb/tsconfigs.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/code-cb/tsconfigs.git"
+  },
   "author": "ICodeMyOwnLife (https://github.com/ICodeMyOwnLife)",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/code-cb/tsconfigs/issues"
+  },
+  "homepage": "https://github.com/code-cb/tsconfigs#readme"
 }
