@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.base",
+  "compilerOptions": {
+    "lib": ["DOM", "ESNext"],
+    "module": "UMD",
+    "allowUmdGlobalAccess": true
+  }
+}

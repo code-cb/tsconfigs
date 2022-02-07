@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.react-app",
+  "compilerOptions": {
+    "declaration": true
+  }
+}

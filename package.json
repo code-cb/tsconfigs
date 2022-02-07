@@ -1,0 +1,8 @@
+{
+  "name": "@codecb/tsconfigs",
+  "version": "0.0.1",
+  "description": "Base TypeScript configs",
+  "repository": "https://github.com/code-cb/tsconfigs.git",
+  "author": "ICodeMyOwnLife (https://github.com/ICodeMyOwnLife)",
+  "license": "MIT"
+}

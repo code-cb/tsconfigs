@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.node-app",
+  "compilerOptions": {
+    "declaration": true
+  }
+}
