@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.esm-app",
+  "compilerOptions": {
+    "declaration": true
+  }
+}

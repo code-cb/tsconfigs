@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.browser-app-legacy",
+  "compilerOptions": {
+    "declaration": true
+  }
+}
