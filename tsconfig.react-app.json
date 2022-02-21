@@ -2,6 +2,7 @@
   "extends": "./tsconfig.browser-app",
   "compilerOptions": {
     "jsx": "react-jsx",
-    "module": "ESNext"
+    "module": "ESNext",
+    "resolveJsonModule": true
   }
 }

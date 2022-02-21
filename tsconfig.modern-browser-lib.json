@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig.modern-browser-app",
+  "compilerOptions": {
+    "declaration": true
+  }
+}
