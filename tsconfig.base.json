@@ -2,6 +2,7 @@
   "compilerOptions": {
     "target": "ESNext",
     "lib": ["ESNext"],
+    "removeComments": true,
     "moduleResolution": "node",
     "isolatedModules": true,
     "esModuleInterop": true,

@@ -1,6 +1,6 @@
 {
   "name": "@codecb/tsconfigs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Base TypeScript configs",
   "repository": {
     "type": "git",
@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/code-cb/tsconfigs/issues"
   },
-  "homepage": "https://github.com/code-cb/tsconfigs#readme"
+  "homepage": "https://github.com/code-cb/tsconfigs#readme",
+  "peerDependencies": {
+    "typescript": "^4.7.2"
+  }
 }
