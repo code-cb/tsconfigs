@@ -2,7 +2,7 @@
   "extends": "./tsconfig.base",
   "compilerOptions": {
     "lib": ["DOM", "ESNext"],
-    "module": "ESNext",
-    "resolveJsonModule": true
+    "module": "UMD",
+    "allowUmdGlobalAccess": true
   }
 }

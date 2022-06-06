@@ -1,5 +1,5 @@
 {
-  "extends": "./tsconfig.modern-browser-app",
+  "extends": "./tsconfig.browser-app-legacy",
   "compilerOptions": {
     "declaration": true
   }
