@@ -1,6 +1,6 @@
 {
   "name": "@codecb/tsconfigs",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Base TypeScript configs",
   "repository": {
     "type": "git",
@@ -12,6 +12,21 @@
     "url": "https://github.com/code-cb/tsconfigs/issues"
   },
   "homepage": "https://github.com/code-cb/tsconfigs#readme",
+  "exports": {
+    "./base": "./tsconfig.base.json",
+    "./browser-app-legacy": "./tsconfig.browser-app-legacy.json",
+    "./browser-app": "./tsconfig.browser-app.json",
+    "./browser-lib-legacy": "./tsconfig.browser-lib-legacy.json",
+    "./browser-lib": "./tsconfig.browser-lib.json",
+    "./esm-app": "./tsconfig.esm-app.json",
+    "./esm-lib": "./tsconfig.esm-lib.json",
+    "./node-app-legacy": "./tsconfig.node-app-legacy.json",
+    "./node-app": "./tsconfig.node-app.json",
+    "./node-lib-legacy": "./tsconfig.node-lib-legacy.json",
+    "./node-lib": "./tsconfig.node-lib.json",
+    "./react-app": "./tsconfig.react-app.json",
+    "./react-lib": "./tsconfig.react-lib.json"
+  },
   "peerDependencies": {
     "typescript": "^4.7.0"
   }
