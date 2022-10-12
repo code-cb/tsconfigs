@@ -3,8 +3,6 @@
     "target": "ESNext",
     "lib": ["ESNext"],
     "removeComments": true,
-    "isolatedModules": true,
-    "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noUnusedLocals": true,
