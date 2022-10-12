@@ -1,5 +1,5 @@
 {
-  "extends": "./tsconfig.base",
+  "extends": "./tsconfig.module",
   "compilerOptions": {
     "lib": ["DOM", "ESNext"],
     "module": "UMD",

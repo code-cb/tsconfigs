@@ -1,6 +1,6 @@
 {
   "name": "@codecb/tsconfigs",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Base TypeScript configs",
   "repository": {
     "type": "git",
