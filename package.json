@@ -1,17 +1,20 @@
 {
   "name": "@codecb/tsconfigs",
   "version": "0.0.10",
-  "description": "Base TypeScript configs",
+  "description": "🧲 Reusable strict TypeScript configurations for all web development purposes",
+  "license": "MIT",
+  "author": {
+    "email": "icodemyownlife@gmail.com",
+    "name": "ICodeMyOwnLife"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/code-cb/tsconfigs.git"
+    "url": "https://github.com/code-cb/tsconfigs"
   },
-  "author": "ICodeMyOwnLife (https://github.com/ICodeMyOwnLife)",
-  "license": "MIT",
+  "homepage": "https://github.com/code-cb/tsconfigs",
   "bugs": {
     "url": "https://github.com/code-cb/tsconfigs/issues"
   },
-  "homepage": "https://github.com/code-cb/tsconfigs#readme",
   "peerDependencies": {
     "typescript": "^4.7.0"
   }
