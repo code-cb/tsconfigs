@@ -1,8 +1,8 @@
+// Configuration file for NodeJS es-module applications
 {
-  "extends": "./tsconfig.module",
-  "compilerOptions": {
-    "module": "NodeNext",
-    "moduleResolution": "NodeNext",
-    "resolveJsonModule": true,
-  }
+  "extends": [
+    "./tsconfig.base.json",
+    "./tsconfig.module.json",
+    "./tsconfig.node-esm.json"
+  ]
 }

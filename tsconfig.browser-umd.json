@@ -1,0 +1,9 @@
+// Base configuration for browser with UMD format
+{
+  "compilerOptions": {
+    "lib": ["DOM", "ESNext"],
+    "module": "UMD",
+    "moduleResolution": "node10",
+    "allowUmdGlobalAccess": true
+  }
+}

@@ -1,9 +1,8 @@
+// Configuration file for browser UMD applications
 {
-  "extends": "./tsconfig.module",
-  "compilerOptions": {
-    "lib": ["DOM", "ESNext"],
-    "module": "UMD",
-    "moduleResolution": "Node",
-    "allowUmdGlobalAccess": true
-  }
+  "extends": [
+    "./tsconfig.base.json",
+    "./tsconfig.module.json",
+    "./tsconfig.browser-umd.json"
+  ]
 }

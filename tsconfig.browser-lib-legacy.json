@@ -1,6 +1,9 @@
+// Configuration file for browser UMD libraries
 {
-  "extends": "./tsconfig.browser-app-legacy",
-  "compilerOptions": {
-    "declaration": true
-  }
+  "extends": [
+    "./tsconfig.base.json",
+    "./tsconfig.module.json",
+    "./tsconfig.browser-umd.json",
+    "./tsconfig.lib.json"
+  ]
 }

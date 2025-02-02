@@ -1,6 +1,9 @@
+// Configuration file for React applications
 {
-  "extends": "./tsconfig.browser-app",
-  "compilerOptions": {
-    "jsx": "react-jsx",
-  }
+  "extends": [
+    "./tsconfig.base.json",
+    "./tsconfig.module.json",
+    "./tsconfig.browser-esm.json",
+    "./tsconfig.react.json"
+  ]
 }

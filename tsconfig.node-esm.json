@@ -1,0 +1,8 @@
+// Base configuration for NodeJS with es-module format
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "moduleResolution": "nodenext",
+    "resolveJsonModule": true
+  }
+}

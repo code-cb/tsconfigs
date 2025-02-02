@@ -1,0 +1,2 @@
+// Base configuration for projects using React
+{ "compilerOptions": { "jsx": "react-jsx" } }

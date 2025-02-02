@@ -1,5 +1,5 @@
+// Base configuration for projects using modules
 {
-  "extends": "./tsconfig.base",
   "compilerOptions": {
     "isolatedModules": true,
     "esModuleInterop": true

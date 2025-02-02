@@ -1,0 +1,8 @@
+// Base configuration for NodeJS with CommonJS format
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "moduleResolution": "node10",
+    "resolveJsonModule": true
+  }
+}

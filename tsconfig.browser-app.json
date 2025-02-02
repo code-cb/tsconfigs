@@ -1,6 +1,8 @@
+// Configuration file for browser es-module applications
 {
-  "extends": "./tsconfig.esm-app",
-  "compilerOptions": {
-    "lib": ["DOM", "ESNext"]
-  }
+  "extends": [
+    "./tsconfig.base.json",
+    "./tsconfig.module.json",
+    "./tsconfig.browser-esm.json"
+  ]
 }

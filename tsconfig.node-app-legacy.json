@@ -1,8 +1,8 @@
+// Configuration file for NodeJS CommonJS applications
 {
-  "extends": "./tsconfig.module",
-  "compilerOptions": {
-    "module": "CommonJS",
-    "moduleResolution": "Node",
-    "resolveJsonModule": true
-  }
+  "extends": [
+    "./tsconfig.base.json",
+    "./tsconfig.module.json",
+    "./tsconfig.node-cjs.json"
+  ]
 }

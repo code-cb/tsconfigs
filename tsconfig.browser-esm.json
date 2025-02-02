@@ -1,0 +1,9 @@
+// Base configuration for browser with es-module format
+{
+  "compilerOptions": {
+    "lib": ["DOM", "ESNext"],
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true
+  }
+}

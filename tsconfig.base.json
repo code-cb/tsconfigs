@@ -1,3 +1,4 @@
+// Base configuration for all projects
 {
   "compilerOptions": {
     "target": "ESNext",
