@@ -18,7 +18,6 @@
     "allowUnusedLabels": false,
     "allowUnreachableCode": false,
     "skipLibCheck": true,
-    "baseUrl": "${configDir}/src",
     "outDir": "${configDir}/dist"
   },
   "include": ["${configDir}/src"]
