@@ -1,6 +1,6 @@
 {
   "name": "@codecb/tsconfigs",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "description": "🧲 Reusable strict TypeScript configurations for all web development purposes",
   "license": "MIT",
   "author": {
