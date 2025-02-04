@@ -1,0 +1,10 @@
+// Configuration file for Bun applications
+{
+  "extends": [
+    "./tsconfig.base.json",
+    "./tsconfig.module.json",
+    "./tsconfig.browser-esm.json",
+    "./tsconfig.bun.json",
+    "./tsconfig.react.json"
+  ]
+}

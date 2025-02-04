@@ -1,0 +1,9 @@
+// Base configuration for projects using Bun
+{
+  "compilerOptions": {
+    "allowImportingTsExtensions": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "verbatimModuleSyntax": true
+  }
+}
