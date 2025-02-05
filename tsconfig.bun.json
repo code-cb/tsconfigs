@@ -4,6 +4,9 @@
     "allowImportingTsExtensions": true,
     "moduleDetection": "force",
     "noEmit": true,
-    "verbatimModuleSyntax": true
+    "verbatimModuleSyntax": true,
+    "paths": {
+      "@/*": ["${configDir}/src/*"]
+    }
   }
 }
