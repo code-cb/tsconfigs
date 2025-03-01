@@ -1,0 +1,8 @@
+// Base configuration for platform-agnostic project with es-module format
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "nodenext",
+    "resolveJsonModule": true
+  }
+}

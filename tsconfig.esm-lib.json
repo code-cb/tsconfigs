@@ -1,0 +1,9 @@
+// Configuration file for platform-agnostic es-module libraries
+{
+  "extends": [
+    "./tsconfig.base.json",
+    "./tsconfig.module.json",
+    "./tsconfig.esm.json",
+    "./tsconfig.lib.json"
+  ]
+}

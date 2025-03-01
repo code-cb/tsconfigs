@@ -5,6 +5,7 @@
     "lib": ["ESNext"],
     "removeComments": true,
     "forceConsistentCasingInFileNames": true,
+    "erasableSyntaxOnly": true,
     "strict": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
